@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/xiaomi/leo/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/xiaomi/leo/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
-    vendor/xiaomi/libra/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
+    vendor/xiaomi/leo/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
     vendor/xiaomi/leo/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/xiaomi/leo/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/xiaomi/leo/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
